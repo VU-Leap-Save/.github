@@ -1,6 +1,6 @@
 Welcome to the Vanderbilt Leap-Save github!
 
-## System Requirements For the Deployed System
+## System Requirements for the Deployed System
 * Operating System: Ubuntu 22.04
 * As of 11/13/2024, the amount of RAM and VRAM used by the robot controllers, user study data collection, and Unity game are as follows.
   
