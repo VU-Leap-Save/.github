@@ -14,6 +14,7 @@ Welcome to the Vanderbilt Leap-Save github!
 * [`Unity_visualizer`](https://github.com/VU-Leap-Save/Unity_visualizer): Main unity simulation of the liver deformation models, textures, and tool interactions
 * [`robot_controller`](https://github.com/VU-Leap-Save/robot_controller): Main ROS 2 high-level controllers for the haptic devices
 * [`teensy_low_level_control`](https://github.com/VU-Leap-Save/teensy_low_level_control): Joint level control code for the robot that runs on a Teensy 4.1 microcontroller
+* [`ml_model_server`](https://github.com/VU-Leap-Save/ml_model_server): Python program that runs inferences on the ML model and communicates the result with Unity
 * [`user_study_data_collection`](https://github.com/VU-Leap-Save/user_study_data_collection): ROS 2 tools for user study data collection
  
 ## Rules for contributors
